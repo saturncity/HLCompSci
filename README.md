@@ -1,1 +1,1 @@
-# hl-computer-science
+# Higher Level Computer Science

@@ -2,6 +2,7 @@
 ----
 Taught by Mr. Isla
 
+### Topics:
 1. System fundamentals
 2. Computer organization
 3. Networks

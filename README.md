@@ -1,4 +1,4 @@
 # International Baccurlate's Diploma Program
-## Higher Level Computer Science
+Higher Level Computer Science
 ----
 Taught by Mr. Isla

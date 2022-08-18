@@ -10,3 +10,6 @@ Taught by Mr. Isla
 5. Abstract data structures
 6. Resource management
 7. Control
+----
+If you would like to make any changes please create a pull request.
+----

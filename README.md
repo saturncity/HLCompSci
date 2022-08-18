@@ -12,4 +12,4 @@ Taught by Mr. Isla
 7. Control
 ----
 
-If you would like to make any changes please create a pull request.
+**If you would like to make any changes please create a pull request.*

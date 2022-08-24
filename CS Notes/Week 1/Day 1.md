@@ -67,7 +67,7 @@ Weeks 17+: Topic 4: Computional Thinking
 ### Types of Memory
 [[Days 2-5; Computer Architecture]]
 
-### Volitie Memory
+### Volatile Memory
 [[Days 2-5; Computer Architecture]]
 
 ### Binary

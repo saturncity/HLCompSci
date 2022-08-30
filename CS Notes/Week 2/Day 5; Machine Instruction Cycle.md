@@ -1,5 +1,5 @@
 # Machine Instruction Cycle
-#Topic2 #ComputerArchitecture
+#Topic2 #ComputerArchitecture #MachineInstructionCycle
 
 The machine instruction cycle describes the cycle in which the computer operates. The clock speed is what manages the speed at which this cycle occurs.
 

@@ -96,7 +96,7 @@
 ##### Virtual Memory (VRAM)
 - VRAM is when secondary memory can be used as primary memory.
 - This can help when there is a RAM shortage.
-- Commonly used in Operating Systems [[Day 6; Operating Systems]]
+- Commonly used in Operating Systems [[Days 6-7; Operating Systems]]
 - The data still has to be loaded from the RAM but the memory in the RAM can be unloaded and put back into secondary storage.
 
 ## Memory Hierarchy #Memory
